@@ -1,0 +1,8 @@
+body{
+    font-family: sans-serif;
+}
+.box{
+    border: 2px solid rgb(0, 119, 255);
+    margin: 10px;
+    padding: 10px;
+}
